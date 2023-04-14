@@ -1,0 +1,14 @@
+{
+  "author": "Orbitium",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/knackroot-technolabs-llp/wallet-provider.git",
+  "bugs": "https://github.com/knackroot-technolabs-llp/wallet-provider/issues",
+  "homepage": "https://github.com/knackroot-technolabs-llp/wallet-provider/tree/main/packages/src/{name}",
+  "engines": {
+    "node": ">=16"
+  },
+  "publishConfig": {
+    "cache": "~/.npm",
+    "access": "public"
+  }
+}
